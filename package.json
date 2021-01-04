@@ -35,5 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/hardestHu/react-ele-admin.git",
+  "author": "1427871171@qq.com <1427871171@qq.com>",
+  "license": "MIT"
 }
